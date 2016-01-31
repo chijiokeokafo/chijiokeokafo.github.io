@@ -6,15 +6,12 @@ baseurl: "/zetsu"
 url: "http://nandomoreira.me"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
+  name     : 'Chijioke Okafo'
+  email    : chijiokeokafo@gmail.com
   url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
-  twitter  : http://twitter.com/nandomoreirame
+  twitter  : http://twitter.com/chijiokeokafo
 
-github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
-google_analytics: UA-52446115-1
+github: https://chijiokeokafo.github.io
 
 paginate: 2
 comments: true
